@@ -1,0 +1,7 @@
+filename,prediction,confidence,status
+IMG_20260315_0001.pdf,Sheet_Washington,0.4105,INCERTAIN
+s_IMG_20260315_0002.pdf,Sheet_Washington,0.4208,INCERTAIN
+IMG_20260315_0002.pdf,Sheet_Washington,0.417,INCERTAIN
+s_IMG_20260315_0001.pdf,Sheet_Miami,0.3641,INCERTAIN
+s_IMG_20260315_0003.pdf,Sheet_Washington,0.41,INCERTAIN
+doc01.pdf,Sheet_Washington,0.4295,INCERTAIN

@@ -1,0 +1,6 @@
+doc_id,page,file_name,prediction,confidence
+1,0,Drug_Influence_Evaluation_Washington_State_(11-18).pdf,OTHER,0.8039
+1,1,Drug_Influence_Evaluation_Washington_State_(11-18).pdf,OTHER,0.8056
+2,0,DRE Face Sheet-Form-Miami.pdf,OTHER,0.81
+3,0,dre-drug-influence-Form-Minesota.pdf,OTHER,0.8171
+3,1,dre-drug-influence-Form-Minesota.pdf,OTHER,0.8102

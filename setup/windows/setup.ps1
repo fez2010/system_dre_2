@@ -15,3 +15,14 @@ Write-Host "Installing Fonts..." -ForegroundColor Yellow
 & ".\setup\windows\font_setup.ps1"
 
 Write-Host "--- Setup Complete! ---" -ForegroundColor Green
+
+
+py -3.8 -m venv venv_dre
+
+.\venv_dre\Scripts\activate
+
+pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name venv_dre --display-name "Python 3.8 (DRE-Project)"
+
+python -m pip install dask distributed --upgrade
